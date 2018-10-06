@@ -15,12 +15,12 @@ language = 'en'
 
 myobj = gTTS(text=mytext, lang=language, slow=True)   # here you can also give false to slow    -> slow =false
 
-myobj.save("welcome.mp3")
+myobj.save("myaudio.mp3")
 
-os.system("mpg321 myaudio.mp3")   # it save this mp3 file to your current directory where you execute your script
+os.system("mpg321 myaudio.mp3")   # it save this mp3 file in your current directory where you execute your script
 
 
 
-#  if mpg321 is not installed than install by typing in  terminal ->  apt-get install mpg321
+#  if mpg321 is not installed than install it  by typing the command in  terminal ->  apt-get install mpg321
 
 #  mpg321 is a very popular command-line mp3 player
