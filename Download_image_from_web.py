@@ -1,7 +1,7 @@
 
 """
         Explaination of a Script ->
-        First of all import requests modeule (install it by command on terminal pip3 install requests )
+        First of all import requests module (install it by command on terminal pip3 install requests )
         Here the variable response object store the http response which is return by get function of module requests .
         get function is use to send http request to the server and save the response in  a response object .
         After that when we get the response object then we have to write it to a new file in a binary mode   .
