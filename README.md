@@ -1,2 +1,7 @@
+Hey  Coder's !!
 
-usefull small python scripts 
+In this repository you can find some under development Scripts but all are runnable 
+
+This Scripts are small chunks of big projects and big SCRIPT 
+
+Hope you all find something meaningfull 
