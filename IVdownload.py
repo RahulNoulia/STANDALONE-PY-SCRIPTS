@@ -72,6 +72,7 @@ class Action:
 if __name__ == "__main__":
     root = Tk()
     root.title("IVdownload")
+    root.resizable(width=False ,height=False)
     root.configure(background="orange")
     root.geometry("690x300")
 
