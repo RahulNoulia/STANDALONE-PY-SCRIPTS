@@ -8,4 +8,4 @@ Hope you all find something meaningfull
 
 SrcapLinks output ->
 
-![](https://github.com/RahulNoulia/PYTHON-SCRIPTS/tree/master/output/new.jpg)
+![](https://github.com/RahulNoulia/PYTHON-SCRIPTS/blob/master/output/new.jpg)
