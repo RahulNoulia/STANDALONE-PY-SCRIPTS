@@ -11,7 +11,7 @@ def read_file(fname):
     except:
         print('some error occurred')
 
-  # Main function
+  # Main function Driver Function
 
 def main():
 
