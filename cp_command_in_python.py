@@ -30,7 +30,7 @@ def copy(src, dest):
         print(" FileNotFoundError Ocurred ")
 
 
-   # Main function
+   # Main function Driver Function
 
 def main():
 
